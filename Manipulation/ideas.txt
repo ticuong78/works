@@ -1,0 +1,4 @@
+# cắt sóng thành các phần 8192 byte bằng nhau
+# tổng tất cả các sóng thành phần đó lại thành 1 bộ 8192 byte dữ liệu biểu thị các mẫu của 1 sóng
+# tính FFT dựa trên 8192 byte đó
+# extract FFT feature
